@@ -14,7 +14,7 @@ const buttonMessage = {
     text: "Hey guys, this bot is under testing stage and will be available very soon for you!",
     footer: 'All rights reserved - souravkl11/raganork',
     templateButtons: templateButtons,
-    image: {url: 'https://i.imgur.com/xerZo68.jpeg'}
+    image: {url: 'https://i.imgur.com/0rZqTIr.jpeg'}
 }
 
 await message.client.sendMessage(message.jid, buttonMessage)
